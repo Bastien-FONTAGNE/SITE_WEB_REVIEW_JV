@@ -723,7 +723,8 @@ ol {
 }
 
 .footer-top-section .container {
-	position: relative;
+	margin-top: -20px;
+
 }
 
 .footer-top-bg {
